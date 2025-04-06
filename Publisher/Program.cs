@@ -25,7 +25,12 @@ async Task SendMessage()
 
         var messageBody = Encoding.UTF8.GetBytes(deger);
 
-        channel.BasicPublish(string.Empty, "Kuyrukadimburaya", null, messageBody);
+        for (var i = 0; i > 5; i ++)
+        {
+            channel.BasicPublish(string.Empty, "Kuyrukadimburaya", null, messageBody);
+
+
+        }
 
         //channel.eq
 

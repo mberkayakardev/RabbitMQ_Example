@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Github\\RabbitMq\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B7F84F79-6050-4DC9-AD3C-0E6D635F1049}|FanoutSubscriber\\FanoutSubscriber.csproj|d:\\github\\rabbitmq\\fanoutsubscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F84F79-6050-4DC9-AD3C-0E6D635F1049}|FanoutSubscriber\\FanoutSubscriber.csproj|solutionrelative:fanoutsubscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16A87D7B-685A-45A1-B476-7B5F8D7D7788}|Subscriber\\Subscriber.csproj|d:\\github\\rabbitmq\\subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16A87D7B-685A-45A1-B476-7B5F8D7D7788}|Subscriber\\Subscriber.csproj|solutionrelative:subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF2BC22-F30C-4F04-A7EC-C9F9CEA98526}|FanoutPublisher\\FanoutPublisher.csproj|d:\\github\\rabbitmq\\fanoutpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF2BC22-F30C-4F04-A7EC-C9F9CEA98526}|FanoutPublisher\\FanoutPublisher.csproj|solutionrelative:fanoutpublisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CDADA09E-3801-45C3-8207-6AE5D9240375}|Publisher\\Publisher.csproj|d:\\github\\rabbitmq\\publisher\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -24,26 +32,53 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Github\\RabbitMq\\Subscriber\\Program.cs",
-              "RelativeDocumentMoniker": "Subscriber\\Program.cs",
-              "ToolTip": "D:\\Github\\RabbitMq\\Subscriber\\Program.cs",
-              "RelativeToolTip": "Subscriber\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAB8AAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Github\\RabbitMq\\FanoutSubscriber\\Program.cs",
+              "RelativeDocumentMoniker": "FanoutSubscriber\\Program.cs",
+              "ToolTip": "D:\\Github\\RabbitMq\\FanoutSubscriber\\Program.cs",
+              "RelativeToolTip": "FanoutSubscriber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T17:35:18.176Z",
+              "WhenOpened": "2025-04-06T13:46:18.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\RabbitMq\\FanoutPublisher\\Program.cs",
+              "RelativeDocumentMoniker": "FanoutPublisher\\Program.cs",
+              "ToolTip": "D:\\Github\\RabbitMq\\FanoutPublisher\\Program.cs",
+              "RelativeToolTip": "FanoutPublisher\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:05:46.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\RabbitMq\\Subscriber\\Program.cs",
+              "RelativeDocumentMoniker": "Subscriber\\Program.cs",
+              "ToolTip": "D:\\Github\\RabbitMq\\Subscriber\\Program.cs",
+              "RelativeToolTip": "Subscriber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T17:35:18.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\Github\\RabbitMq\\Publisher\\Program.cs",
               "RelativeDocumentMoniker": "Publisher\\Program.cs",
               "ToolTip": "D:\\Github\\RabbitMq\\Publisher\\Program.cs",
               "RelativeToolTip": "Publisher\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCAAAABoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-05T17:34:54.702Z"
+              "WhenOpened": "2025-04-05T17:34:54.702Z",
+              "EditorCaption": ""
             }
           ]
         }

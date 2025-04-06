@@ -3,11 +3,11 @@
     "Name": "New Profile",
     "Projects": [
       {
-        "Path": "Publisher\\Publisher.csproj",
+        "Path": "FanoutPublisher\\FanoutPublisher.csproj",
         "Action": "Start"
       },
       {
-        "Path": "Subscriber\\Subscriber.csproj",
+        "Path": "FanoutSubscriber\\FanoutSubscriber.csproj",
         "Action": "Start"
       }
     ]
