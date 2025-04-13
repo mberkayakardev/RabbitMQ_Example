@@ -1,0 +1,3 @@
+﻿Basic seviyede yapıyı anlayabilmek için en temelde exchange siz bir şekilde rabbitMQ gösterilmiştir ararlamaları ve açıklamaları var
+
+Exchange kullanmadan oluşturulan mesajlar direk kanala bırakılmıştır. 

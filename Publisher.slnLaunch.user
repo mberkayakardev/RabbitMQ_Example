@@ -1,13 +1,38 @@
 [
   {
-    "Name": "New Profile",
+    "Name": "DirectExchanges",
     "Projects": [
       {
-        "Path": "FanoutPublisher\\FanoutPublisher.csproj",
+        "Path": "DirectPublisher\\DirectPublisher.csproj",
         "Action": "Start"
       },
       {
-        "Path": "FanoutSubscriber\\FanoutSubscriber.csproj",
+        "Path": "DirectSubscriber\\DirectSubscriber.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DirectSubscriber2\\DirectSubscriber2.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Topic",
+    "Projects": [
+      {
+        "Path": "TopicPublisher\\TopicPublisher.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TopicSubscriber\\TopicSubscriber.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TopicSubscriber2\\TopicSubscriber2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TopicExchange3\\TopicExchange3.csproj",
         "Action": "Start"
       }
     ]
