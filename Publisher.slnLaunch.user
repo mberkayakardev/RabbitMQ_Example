@@ -34,6 +34,35 @@
       {
         "Path": "TopicExchange3\\TopicExchange3.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "HeaderPublisher\\HeaderPublisher.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HeaderSubsriber\\HeaderSubsriber.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HeaderSubscriber2\\HeaderSubscriber2.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "Header Exchange",
+    "Projects": [
+      {
+        "Path": "HeaderPublisher\\HeaderPublisher.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HeaderSubsriber\\HeaderSubsriber.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "HeaderSubscriber2\\HeaderSubscriber2.csproj",
+        "Action": "Start"
       }
     ]
   }
